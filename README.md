@@ -12,6 +12,11 @@ Soy un científico de datos. con experiencia en la limpieza, preprocesamiento, a
 - **Descripción**: Análisis exploratorio de datos utilizando pandas y matplotlib. Ingeria de datos y procesamiento de texto. Deep learning
 - **Tecnologías**: Python, pandas, numpy, sckit-learn, matplotlib, seaborn, tensorflow keras
 
+### [Proyecto 2: Análisis de Clustering y PCA. ](./Project_02)
+- **Descripción**: Descripción: Este proyecto se centra en la exploración y el análisis de datos mediante técnicas de clustering y análisis de componentes principales (PCA). Se utilizan algoritmos como K-Means, Clustering Jerárquico y Clustering Espectral para identificar patrones y agrupaciones en los datos.
+
+- **Tecnologías**: Python, pandas, numpy, scikit-learn, matplotlib, seaborn, scipy, plotly
+ 
 
 ## Cómo Ejecutar los Proyectos
 
@@ -19,7 +24,7 @@ Cada proyecto tiene su propia carpeta y contiene un `README.md` con instruccione
 
 1. Clona el repositorio:
     ```sh
-    git clone (Briefcase_project)
+    git clone (https://github.com/luismmachados/Briefcase_project)
     ```
 
 2. Navega al directorio del proyecto:
