@@ -19,12 +19,12 @@ Cada proyecto tiene su propia carpeta y contiene un `README.md` con instruccione
 
 1. Clona el repositorio:
     ```sh
-    git clone (https://github.com/LuisMachadoSaa/Briefcase_project)
+    git clone (Briefcase_project)
     ```
 
 2. Navega al directorio del proyecto:
     ```sh
-    cd Data-Science--briefcase/ProyectoX
+    cd Briefcase_project
     ```
 
 3. Instala las dependencias:
