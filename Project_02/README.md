@@ -1,2 +1,3 @@
-# Proyecto 1- Uso de redes neuronales para predecir una noticia falsa.
-Se nos encargo un labor de diseñar un modelo de inteligencia artifical, en este caso lo diseñamos con aprendizaje profundo, capaz de entrenarse con datos del mundo real y detectar patrones, en este caso sobre una noticia falsa.
+# Proyecto 1- Análisis de Clustering y PCA
+Descripción
+Este proyecto realiza un análisis de clustering en un conjunto de datos utilizando diferentes algoritmos de clustering (K-means, Agglomerative Clustering, y Spectral Clustering) y técnicas de reducción de dimensionalidad como PCA. El objetivo es identificar patrones y agrupaciones naturales en los datos. Logramos encontrar en numero optimo para agrupar las muestras y comentar sobre los insight obtenidos.
