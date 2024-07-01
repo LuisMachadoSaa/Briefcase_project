@@ -4,7 +4,7 @@ Bienvenido a mi portafolio de ciencia de datos. Este repositorio contiene una co
 
 ## Acerca de Mí
 
-Soy un científico de datos. con experiencia en la recolección, análisis, ingeniería y visualización de datos. He desarrollado modelos de machine learning y deep learning aplicados a problemas del mundo real. Desarrollo de estrategias a base de los insight.
+Soy un científico de datos. con experiencia en la recolección, análisis, ingeniería y visualización de datos. He desarrollado modelos de machine learning y deep learning aplicados a problemas del mundo real. Implementación de estrategias a base de los insight.
 
 ## Proyectos Destacados
 
